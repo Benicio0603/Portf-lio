@@ -12,8 +12,9 @@
         <div class="center">
         <div id="sobre" class="w50 left">
         <h2>Sobre Mim</h2>
-        <p>Sou muito tranquilo, sempre fui muito trabalhador. Já trabalhei como vendedor, 
-            analista de sistemas e agora estou iniciando minha jornada como Programador Front-end. Tenho como base, minha 
+        <p>Meu nome é Rodrigo, tenho 39 anos. Já trabalhei como vendedor, 
+        analista de sistemas e agora estou iniciando minha jornada como Programador Front-end (HTML/CSS/JAVASCRIPT/PHP).
+        </br>Tenho como base, minha 
         linda família como fonte de inspiração.</p>
     </div><!--w50-->
 
